@@ -1,10 +1,16 @@
 # Jason Martocci
 
-Full-stack engineer and AI systems builder with more than 20 years of hands-on work on web apps, SaaS, APIs, automation and cloud infrastructure.
+Full-stack engineer and AI systems builder with 25+ years of hands-on work on web platforms, SaaS, APIs, automation and cloud infrastructure.
 
 - **Portfolio:** [jasonmartocci.dev](https://jasonmartocci.dev)
-- **Family heritage project:** [martocci.dev](https://martocci.dev)
 - **LinkedIn:** [linkedin.com/in/jasonmartocci](https://www.linkedin.com/in/jasonmartocci)
+
+## What I've built
+
+- **[ViralWorx](https://viralworx.ai):** an AI studio for video and social content. Scripts, thumbnails, scheduling and analytics across YouTube, TikTok, Instagram and more.
+- **[Your Chess Career](https://yourchesscareer.com):** tracks your Chess.com rating history and openings, and reviews finished games with Stockfish analysis.
+- **[Stack or Sink](https://stackorsink.com):** a Roblox game. Stack everyday objects, climb above a rising hazard, and outlast your rivals.
+- **[martocci.dev](https://martocci.dev):** the Martocci family's heritage site and private family tree, with an AI family historian.
 
 ## Building now: [martocci.dev](https://martocci.dev)
 
