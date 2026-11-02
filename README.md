@@ -7,7 +7,7 @@ Full-stack engineer and AI systems builder with 25+ years of hands-on work on we
 
 ## What I've built
 
-- **[ViralWorx](https://viralworx.ai):** an AI studio for video and social content. Scripts, thumbnails, scheduling and analytics across YouTube, TikTok, Instagram and more.
+- **[Viral Worx](https://viralworx.ai):** an AI studio for video and social content. Scripts, thumbnails, scheduling and analytics across YouTube, TikTok, Instagram and more.
 - **[Your Chess Career](https://yourchesscareer.com):** tracks your Chess.com rating history and openings, and reviews finished games with Stockfish analysis.
 - **[Stack or Sink](https://stackorsink.com):** a Roblox game. Stack everyday objects, climb above a rising hazard, and outlast your rivals.
 - **[martocci.dev](https://martocci.dev):** the Martocci family's heritage site and private family tree, with an AI family historian.
